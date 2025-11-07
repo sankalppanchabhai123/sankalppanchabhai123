@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Automated customer service for ecommerce websites**
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **AIML | Web Technology**
 
 - 💬 Ask me about **React Js, Node Js, MongoDb, Express Js**
 
